@@ -3,5 +3,4 @@
 	url = https://github.com/apvarun/blist-hugo-theme.git
 [submodule "public"]
 	path = public
-	url = git@github.com:harshavmb/harshavmb.github.io.git
-	branch = main
+	url = https://github.com/harshavmb/harshavmb.github.io.git
