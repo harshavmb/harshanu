@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/harshavmb/harshavmb.github.io.git
+	branch = main
