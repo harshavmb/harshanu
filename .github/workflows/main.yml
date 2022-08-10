@@ -27,7 +27,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: harshavmb/harshavmb.github.io
           publish_dir: ./public
-          #   keep_files: true
+          keep_files: true
           user_name: harshavmb
           user_email: harshavmb@gmail.com
           publish_branch: main
