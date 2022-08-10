@@ -21,6 +21,9 @@ jobs:
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo -t blist
 
+      - name: Copy the workflow file for harshavmb/harshavmb.github.io project
+        run: mkdir -p ./public/.github/workflows && cp workflow-cd.yml ./public/.github/workflows/main.yml
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

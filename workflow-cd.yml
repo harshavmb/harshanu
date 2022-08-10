@@ -1,0 +1,8 @@
+name: CD for harshanu website
+on: push
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
