@@ -21,16 +21,14 @@ jobs:
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo -t blist
 
-      - name: Copy the workflow file for harshavmb/harshavmb.github.io project
-        run: mkdir -p ./public/.github/workflows && cp workflow-cd.yml ./public/.github/workflows/main.yml
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: harshavmb/harshavmb.github.io
           publish_dir: ./public
-          keep_files: true
+          ## not excluding anything, let .github be there
+          exclude_assets: ''
           user_name: harshavmb
           user_email: harshavmb@gmail.com
           publish_branch: main
