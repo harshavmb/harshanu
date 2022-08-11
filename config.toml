@@ -2,6 +2,7 @@ baseURL = "https://harshanu.space/"
 languageCode = "en-us"
 title = "Harshanu"
 theme = "blist"
+enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
