@@ -1,8 +1,8 @@
 ---
 author: "Harshanu"
 title: "Walchensee"
-date: 2021-08-20
+date: 2020-06-20
 description: "Walchensee, Germany"
 tags: ["walchensee", "germany", "alps", "lake", "garmisch", "cycling", "swimming"]
-thumbnail: https://images.unsplash.com/photo-1621801284228-c04331a730ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80
+thumbnail: https://photos.harshanu.space/api/v1/t/5e80f79006cb41b02f0ea9bc9decc75e320dc1a8/eb67a984/fit_2048
 ---
