@@ -4,5 +4,5 @@ title: "Koenigssee"
 date: 2021-08-20
 description: "Königssee, Germany"
 tags: ["Königssee", "germany", "alps", "lake", "garmisch", "cycling", "swimming", "berchtesgaden"]
-thumbnail: https://images.unsplash.com/photo-1597182347752-895c49a4247d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+thumbnail: https://photos.harshanu.space/api/v1/t/4f242780d5451db0ff8562b1deb09b93f9383146/eb67a984/fit_2048
 ---
