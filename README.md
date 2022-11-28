@@ -1,2 +1,2 @@
 # harshanu
-A blog built with Hugo 
+A blog built with Hugo static website generator 
