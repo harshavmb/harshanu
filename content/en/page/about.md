@@ -20,3 +20,4 @@ Here are some additional details that you can include in the blog:
 - He is also passionate about photography and often takes pictures of his travels.
 - He is a member of several travel forums and blogs.
 - He is always looking for new ways to share his love of travel with others.
+
