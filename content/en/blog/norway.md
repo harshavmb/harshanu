@@ -4,5 +4,5 @@ title: "Norway"
 date: 2021-08-20
 description: "Norway"
 tags: ["Oslo", "Norway", "tromso", "winter", "northernlights", "nordic", "swimming", "sauna"]
-thumbnail: https://photos.harshanu.space/api/v1/t/dfd4f6a679dd6b5aad0d190153dd9e4ba1f07383/eb67a984/fit_2048
+thumbnail: https://photos.harshanu.space/api/v1/t/6d028bdd53ee6208c10751515057942eb8f2e815/2zwabhu7/fit_2048
 ---

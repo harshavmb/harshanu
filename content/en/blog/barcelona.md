@@ -4,12 +4,12 @@ title: "Barcelona"
 date: 2021-08-20
 description: "Unveiling the Enchantment of Barcelona: A Journey Through History, Culture, and Charm"
 tags: ["barcelona", "spain", "catalonia", "travel", "nightlife", "beach", "swimming"]
-thumbnail: https://photos.harshanu.space/api/v1/t/29d331d6df6f5f6efc0dd214da29125779976496/eb67a984/fit_2048
+thumbnail: https://photos.harshanu.space/api/v1/t/80832ab37b12699b4040ab2e58412c06538ff98d/2zwabhu7/fit_2048
 ---
 
 ## Introduction
 Nestled along the sun-kissed shores of the Mediterranean Sea, Barcelona stands as a vibrant tapestry of history, culture, and architectural marvels. From the whimsical creations of Antoni Gaudí to the lively energy of its bustling streets, this captivating city offers an experience like no other. Join us as we embark on a virtual journey through the heart and soul of Barcelona, uncovering its unique charm and uncovering the secrets that make it a must-visit destination.
-![Statue in Barcenlona](https://photos.harshanu.space/api/v1/t/80832ab37b12699b4040ab2e58412c06538ff98d/2zwabhu7/fit_2048)
+![Statue in Barcenlona](https://photos.harshanu.space/api/v1/t/23bbe6eab30f12e8081ed5b6fbcf817402846c49/2zwabhu7/fit_2048)
 
 ## A Glimpse into the Past: Barcelona's Historical Heritage
 Barcelona's roots trace back over two thousand years, revealing a rich and diverse history that has shaped its character. The city was founded by the Romans and has since been influenced by various civilizations, including the Visigoths and Moors. A stroll through the Barri Gòtic (Gothic Quarter) transports visitors to medieval times, with its narrow cobblestone streets, ancient cathedrals, and hidden squares. The majestic Barcelona Cathedral, a masterpiece of Catalan Gothic architecture, stands as a testament to the city's enduring history.
