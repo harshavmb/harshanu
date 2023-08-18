@@ -2,25 +2,23 @@
 author: Harshanu
 title: About Us
 date: 2022-08-03
-description:
-keywords: ["about-us", "about-hugo", "contact"]
+description: Harshavardhan Musanalli - A Passionate IT Engineer and Traveler
+keywords: ["about-us", "about-harsha", "contact"]
 type: about
 ---
 
-Written in Go, Harshanu is an open source static site generator available under the [Apache Licence 2.0.](  https://github.com/harshavmb/harshanu/blob/main/LICENSE) Harshanu supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Harshavardhan Musanalli is an IT engineer with a passion for travel. He is currently based in Munich, Germany, but he has traveled to over 20 countries in his lifetime. Harshavardhan is always looking for new places to explore and new cultures to experience.
 
-Hugo makes use of a variety of open source projects including:
+Harshavardhan's love of travel started when he was a child. He would often go on family vacations with his parents and siblings. As he got older, he started traveling on his own. He has visited many different countries, including India, the United States, and Europe.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+In addition to his love of travel, Harshavardhan is also passionate about IT. He has a degree in computer science and has worked as an IT engineer for several years. Harshavardhan is always looking for new ways to use technology to solve problems.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Harshavardhan is a talented engineer and a dedicated traveler. He is always looking for new challenges and new experiences. He is an inspiration to those who know him.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Here are some additional details that you can include in the blog:
+- Harshavardhan's favorite travel destinations include India, the United States, and Europe.
+- He is also passionate about photography and often takes pictures of his travels.
+- He is a member of several travel forums and blogs.
+- He is always looking for new ways to share his love of travel with others.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I hope this helps!
