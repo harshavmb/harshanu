@@ -1,9 +1,9 @@
 ---
 author: Harshanu
-title: About Us
+title: Über uns
 date: 2022-08-03
 description: Harshavardhan Musanalli - Ein leidenschaftlicher IT-Ingenieur und Reisender
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["über-uns", "über-harsha", "kontakt"]
 type: about
 ---
 
