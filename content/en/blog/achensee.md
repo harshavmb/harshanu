@@ -29,7 +29,7 @@ There are many things to do in Achensee, for all ages and interests. Here are a 
 
 Achensee is easily accessible by car, train, and bus. The nearest airport is Innsbruck Airport, which is about an hour's drive from Achensee.
 
-Plan your trip to Achensee
+## Plan your trip to Achensee
 
 If you're planning a trip to Achensee, here are a few things to keep in mind:
 

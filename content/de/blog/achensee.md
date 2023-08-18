@@ -29,7 +29,7 @@ Es gibt viele Dinge, die man in Achensee tun kann, für alle Altersgruppen und I
 
 Achensee ist mit dem Auto, Zug und Bus leicht zu erreichen. Der nächste Flughafen ist der Flughafen Innsbruck, der etwa eine Autostunde von Achensee entfernt ist.
 
-Planen Sie Ihre Reise nach Achensee
+## Planen Sie Ihre Reise nach Achensee
 
 Wenn Sie eine Reise nach Achensee planen, sollten Sie Folgendes beachten:
 
