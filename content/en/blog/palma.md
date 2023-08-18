@@ -25,7 +25,7 @@ In addition to its cultural attractions, Palma also has many beautiful beaches. 
 * **Sample the local cuisine**: Palma has a vibrant culinary scene, with restaurants serving everything from traditional Mallorcan dishes to international cuisine.  
 ![ Local cuisine in Palma  ](https://photos.harshanu.space/api/v1/t/3dc00f0f1367876fec18991469890c505a08cba1/2zwabhu7/fit_2048)
 * **Train ride to Sóller**: The train ride to Sóller is a must-do for any visitor to Mallorca. It is a scenic journey through the Tramuntana mountains, which offer stunning views of the island. The train is a vintage wooden train that was built in 1912, and it is a great way to experience the history and culture of Mallorca. 
-![ Train ride to Sòller, Mallorca ](https://photos.harshanu.space/api/v1/t/b69d2f8ea7ab5d9e9c0d4377cb9e493eb236c609/2zwabhu7/fit_2048)
+![ Train ride to Sòller, Mallorca ](https://photos.harshanu.space/api/v1/t/942ec1cb980491df7640cc8e0c400811f3b22194/2zwabhu7/fit_2048)
 The train departs from the Plaça d'Espanya train station in Palma and takes about an hour to reach Sóller. Along the way, it passes through several small villages and towns, and it crosses over several bridges and through several tunnels.
 
 The train ride is a great way to see the different landscapes of Mallorca. In the beginning, the train passes through the urban area of Palma. Then, it enters the Tramuntana mountains, where the scenery becomes more rugged and mountainous. The train also passes through several citrus groves, which are a major crop in Mallorca.
