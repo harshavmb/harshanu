@@ -88,7 +88,7 @@ When it comes to your cherished photo collection, security is paramount. Ensurin
 
 4. **Regular Software Updates**: Keep all software components, including the server operating system, Nginx, PhotoPrism, and MySQL, up to date with the latest security patches. Vulnerabilities in outdated software can be exploited by malicious actors.
 
-5. **Data Backup and Redundancy**: Regularly backup your photo collection and database. Store backups in secure, offsite locations to guard against data loss due to hardware failures, accidental deletions, or security breaches.
+5. **Data Backup and Redundancy**: Regularly backup your photo collection and database. Store backups in secure, offsite locations to guard against data loss due to hardware failures, accidental deletions, or security breaches. Hetzner allows you to take storagebox as well as server snapshots so as to protect your data in the events of corruption or hardware failures. Their storage box has multiple RAID configurations which can withhold multiple disk failures.
 
 6. **Monitoring and Intrusion Detection**: Set up monitoring tools to keep an eye on server performance and security. Implement intrusion detection systems (IDS) to detect and respond to unusual or malicious activities promptly. I use grafana, prometheus, node exporter storing nginx, mariadb, docker & node exporter logs.
 
