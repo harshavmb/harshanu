@@ -112,23 +112,23 @@ DefaultContentLanguageInSubdir = true
 ## for google analytics and privacy
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
     anonymizeIP = false
-    disable = false
+    disable = true
     respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.youtube]
-    disable = false
+    disable = true
     privacyEnhanced = false
