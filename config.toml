@@ -5,6 +5,7 @@ theme = "blist"
 enableRobotsTXT = true
 googleAnalytics = "G-DBFGKP1J5P"
 
+## this is for disqus
 disqusShortname = "harshanu-space"
 
 DefaultContentLanguage = "en"
