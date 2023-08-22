@@ -16,8 +16,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! We are Harsha & Anu"
-      introSubtitle = "Like travelling, hiking, cycling & learning"
+      introTitle = "Tech Trekkers: Adventures in Technology, Travel, and the Outdoors"
+      introSubtitle = "A couple who loves to explore the world, both virtually and physically, through technology."
       introPhoto = "/harshanu.JPG"
       #logo = "/blist-logo.png"
     [[languages.en.menu.main]]
@@ -47,8 +47,8 @@ DefaultContentLanguageInSubdir = true
     title = "Harshanu"
     description = "Modernes Blog-Theme für Ihre Hugo-Site."
     [languages.de.params]
-      introTitle = "Servus! Wir sind Harsha & Anu"
-      introSubtitle = "mag Reisen, Wandern, Radfahren und Lernen"
+      introTitle = "Tech Trekkers: Abenteuer in Technologie, Reisen und in der Natur"
+      introSubtitle = "Ein Paar, das es liebt, die Welt mithilfe von Technologie sowohl virtuell als auch physisch zu erkunden."
       introPhoto = "/harshanu.JPG"
       #logo = "/blist-logo-de.png"
     [[languages.de.menu.main]]
@@ -64,7 +64,12 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3      
+        weight = 3
+
+    [[languages.de.menu.main]]
+        name = "Top Post"
+        url = "/de/blog/marriage/"
+        weight = 4          
 
 [params]
   # Enable the darkmode toggle in header
@@ -88,7 +93,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params xommon for both languages
   title = "Follow us"
-  description = "I work on everything coding and tweet developer memes"
+  description = "We share photos, videos, and stories from our travels, hikes, and cycling trips. Follow us to see where we're going next!"
   twitter = "https://twitter.com/harshavmb/"
   linkedin = "https://www.linkedin.com/in/harshavardhan-musanalli-9b160b23/"  
   github = "https://github.com/harshavmb/"
