@@ -2,7 +2,7 @@
 author: "Harshanu"
 title: "Tromsø"
 date: 2020-01-18
-description: "Tromsø, Norway"
+description: "Tromsø: Norway's Arctic Jewel"
 tags: ["Tromsø", "Norway", "beach", "northsee", "scandinavia", "nordic", "dogsledding", "reindeers"]
 thumbnail: https://photos.harshanu.space/api/v1/t/32ce9978a15e294f841342d28d4fca62d11daebf/2zwabhu7/fit_2048
 ---
@@ -14,7 +14,7 @@ Tromsø, located in the northern reaches of Norway, is a place that seems to be 
 ## Arctic Scenery
 
 Tromsø boasts some of the most breathtaking Arctic scenery in the world. The city is surrounded by snow-capped mountains, deep fjords, and icy waters, creating a mesmerizing backdrop for your adventures. In winter, the landscapes are transformed into a pristine wonderland, perfect for outdoor activities like skiing, snowshoeing, and dog sledding.
-![ Arctic Scenery ](https://photos.harshanu.space/api/v1/t/c130576582038ab48f102f913dc772b2df812a15/2zwabhu7/fit_2048)
+![ Arctic Scenery ](https://photos.harshanu.space/api/v1/t/ecc97727c23ef62a21bddb371586c65582d31f60/2zwabhu7/fit_2048)
 
 ## Northern Lights Spectacle (Aurora Borealis)
 
