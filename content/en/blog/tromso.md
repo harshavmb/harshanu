@@ -1,6 +1,6 @@
 ---
 author: "Harshanu"
-title: "Norway"
+title: "Tromsø"
 date: 2020-01-18
 description: "Tromsø, Norway"
 tags: ["Tromsø", "Norway", "beach", "northsee", "scandinavia", "nordic", "dogsledding", "reindeers"]
