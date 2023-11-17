@@ -82,7 +82,7 @@ Configure Ansible to Use the Callback Plugin
 
 ```shell
 [defaults]
-callback_whitelist = hide_secrets_callback
+callback_whitelist = redactsensitivedata
 ```
 
 Test run of ansible redacting Authorization headers and HTTP body..
