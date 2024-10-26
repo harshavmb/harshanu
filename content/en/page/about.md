@@ -6,7 +6,7 @@ description: Journey of Two Hearts and Minds - Anupama Aili and Harshavardhan Mu
 keywords: ["about-us", "about-harsha", "contact"]
 type: about
 ---
-![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/77718b172482014738c3fd7fa8e82451748e8892/2zwabhu7/fit_2048)
+![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/77718b172482014738c3fd7fa8e82451748e8892/081gaa0s/fit_2048)
 
 In a world where paths converge and stories intertwine, there exists a beautiful tale of love, ambition, and shared dreams. Meet Anupama Aili and Harshavardhan Musanalli, two remarkable individuals whose journey transcends borders and professions, proving that love knows no boundaries. With Anupama's prowess in the world of semiconductors and Harshavardhan's expertise as an IT engineer, theirs is a story of collaboration, passion, and unwavering support.
 
