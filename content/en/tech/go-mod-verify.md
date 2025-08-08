@@ -4,7 +4,7 @@ title: "How go verifies checksums of downloaded modules?"
 date: 2023-11-30
 description: "A Guide to help the go developer know how go verifies checksums of downloade modules"
 tags: ["go", "golang", "checksum", "base64", "fingerprint", "sha", "sha256sum", "module"]
-thumbnail: https://photos.harshanu.space/api/v1/t/6912fb85590d93cd40d452915c80112ba9e5c3a7/081gaa0s/fit_1280
+thumbnail: https://photos.harshanu.space/api/v1/t/6912fb85590d93cd40d452915c80112ba9e5c3a7/2zwabhu7/fit_1280
 ---
 
 ## Introduction

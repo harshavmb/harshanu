@@ -4,7 +4,7 @@ title: "Hide sensitive data in Ansible verbose logs"
 date: 2023-11-17
 description: "A Guide to redact sensitive data in Ansible logs even when verbose flags are turned on"
 tags: ["ansible", "secrets", "logs", "verbose", "sensitive", "redact", "debug", "callback"]
-thumbnail: https://photos.harshanu.space/api/v1/t/25d379c065d5e00dffea28754ac7330271fa0b64/081gaa0s/fit_1280
+thumbnail: https://photos.harshanu.space/api/v1/t/25d379c065d5e00dffea28754ac7330271fa0b64/2zwabhu7/fit_1280
 ---
 
 ## Introduction
