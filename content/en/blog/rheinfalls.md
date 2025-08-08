@@ -4,7 +4,7 @@ title: "Rhinefalls"
 date: 2022-08-14
 description: "Roaring Majesty: Exploring Europe's Largest Waterfall - Rheinfall"
 tags: ["rhinefalls", "switzerland", "rhine", "waterfall", "schaffhausen", "boat", "miniature"]
-thumbnail: https://photos.harshanu.space/api/v1/t/d8996b9e43fff55bc8050c3685a46b2fe913ce79/081gaa0s/fit_2048
+thumbnail: https://photos.harshanu.space/api/v1/t/d8996b9e43fff55bc8050c3685a46b2fe913ce79/2zwabhu7/fit_2048
 ---
 
 ## Introduction
@@ -17,19 +17,19 @@ The Rhine Falls are a popular tourist destination, and there are several viewing
 
 ## Here are some of the things you can do at the Rhine Falls:
 * **Take a boat tour**: This is the best way to get up close to the falls and experience the power of the water. There are several different boat tours available, ranging from short rides to longer excursions.
-![Boat Tour at Rheinfalls](https://photos.harshanu.space/api/v1/t/6b99760f06151d89e93aba6d6ec2c2ce26a9bff5/081gaa0s/fit_2048)
+![Boat Tour at Rheinfalls](https://photos.harshanu.space/api/v1/t/6b99760f06151d89e93aba6d6ec2c2ce26a9bff5/2zwabhu7/fit_2048)
 
 * **Visit the viewing platforms**: There are several viewing platforms located on both the Swiss and German sides of the falls. These platforms offer stunning views of the falls from different angles.
-![One of the viewpoints](https://photos.harshanu.space/api/v1/t/f35502fe62382dccb7fd7d1f91aac394ac2ebf2a/081gaa0s/fit_2048)
+![One of the viewpoints](https://photos.harshanu.space/api/v1/t/f35502fe62382dccb7fd7d1f91aac394ac2ebf2a/2zwabhu7/fit_2048)
 
 * **Go hiking**: There are several hiking trails in the area that offer views of the falls. The most popular trail is the Rheinfall Suspension Bridge Trail, which takes you across a suspension bridge that offers panoramic views of the falls.
-![A hiking trail](https://photos.harshanu.space/api/v1/t/fd19d9f01fe7a23aa66cf713b953319408a77cd9/081gaa0s/fit_2048)
+![A hiking trail](https://photos.harshanu.space/api/v1/t/fd19d9f01fe7a23aa66cf713b953319408a77cd9/2zwabhu7/fit_2048)
 
 * **Have a picnic**: There are several picnic areas located near the falls. This is a great way to enjoy the outdoors and take in the views of the falls.
-![Enjoying the view from boat](https://photos.harshanu.space/api/v1/t/5b1911aba5994cd3daf977739882a55967741df8/081gaa0s/fit_2048)
+![Enjoying the view from boat](https://photos.harshanu.space/api/v1/t/5b1911aba5994cd3daf977739882a55967741df8/2zwabhu7/fit_2048)
 
 * **Miniaturwelt am Rheinfall**: The modern complex of the miniature world Smilestones shows some of the most famous Swiss destinations such as the Alpstein area, the Bernese Oberland, the Rhine Falls and much more. The modeled landscape resembles a three-dimensional hidden object and offers many small scenes and funny details to be discovered.
-![A photo from Miniaturwelt](https://photos.harshanu.space/api/v1/t/6025ed5098aa32d49d1de1cd520e30eb6499a763/081gaa0s/fit_2048)
+![A photo from Miniaturwelt](https://photos.harshanu.space/api/v1/t/6025ed5098aa32d49d1de1cd520e30eb6499a763/2zwabhu7/fit_2048)
 
 The Rhine Falls are a truly majestic sight, and they are sure to leave a lasting impression on anyone who visits them.
 

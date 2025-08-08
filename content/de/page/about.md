@@ -6,7 +6,7 @@ description: Die Reise zweier Herzen und Köpfe - Anupama Aili und Harshavardhan
 keywords: ["über-uns", "über-harsha", "kontakt"]
 type: about
 ---
-![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/77718b172482014738c3fd7fa8e82451748e8892/081gaa0s/fit_2048)
+![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/77718b172482014738c3fd7fa8e82451748e8892/2zwabhu7/fit_2048)
 
 * **Anupama Aili: Halbleiter meistern, Chip für Chip** 
 Anupama Aili, ein Name, der Innovation und Exzellenz im Bereich der Halbleiter symbolisiert, begann ihre Reise mit einem Masterstudium in den Vereinigten Staaten. Mit Durst nach Wissen und dem Antrieb, einen Unterschied zu machen, tauchte sie in die komplexe Welt von Siliziumwafern, Transistoren und integrierten Schaltkreisen ein. Ihre Hingabe und Entschlossenheit haben nicht nur Anerkennung eingebracht, sondern sie auch als Wegbereiterin im ständig wandelnden Feld der Halbleitertechnologie positioniert.

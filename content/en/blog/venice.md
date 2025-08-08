@@ -4,7 +4,7 @@ title: "Venice"
 date: 2022-02-14
 description: "Venice, Italy"
 tags: ["Italy", "Venice", "Gondola", "travel", "floating city", "romantic", "carnival"]
-thumbnail: https://photos.harshanu.space/api/v1/t/282392ef50c4cc74a2cffd32761bb5f4b8946aaf/081gaa0s/fit_2048
+thumbnail: https://photos.harshanu.space/api/v1/t/282392ef50c4cc74a2cffd32761bb5f4b8946aaf/2zwabhu7/fit_2048
 ---
 
 ## Introduction
@@ -27,14 +27,14 @@ Supermarkets, restaurants are in the vicinity. Hotel also offers a bar in the ev
 
 In total, Venice has 177 canals. One can walk all the day hopping from one bridge to another & getting lost. 
 Majority of tourists walk from centre to San Marco (the most happening place in the Venice). 
-![](https://photos.harshanu.space/api/v1/t/35bbeaaf38e4bac917c383639d70554a06ee9a91/081gaa0s/fit_2048)
+![](https://photos.harshanu.space/api/v1/t/35bbeaaf38e4bac917c383639d70554a06ee9a91/2zwabhu7/fit_2048)
 
 ## Gondola
 
 Gondola boats with their elegant, luxurious appearance fascinate many tourists to have an unforgettable romantic experience. Gondola riders will take you through the Canals of Venice, talking about the rich Venezian history. 
-![](https://photos.harshanu.space/api/v1/t/0e417c1f6d196965b790184d89a56623a28ae47c/081gaa0s/fit_2048)
+![](https://photos.harshanu.space/api/v1/t/0e417c1f6d196965b790184d89a56623a28ae47c/2zwabhu7/fit_2048)
 
 ## Carnival
 
 Every year around February carnival happens in Venice. People wear fantasy costumes with masks hiding their face. We have seen people mostly in the medieval costumes ranging from daemons to angels, priests to athiests & so on. 
-![](https://photos.harshanu.space/api/v1/t/5fdcce41c56be23f1f0bea38858dd15a5558c440/081gaa0s/fit_2048)
+![](https://photos.harshanu.space/api/v1/t/5fdcce41c56be23f1f0bea38858dd15a5558c440/2zwabhu7/fit_2048)

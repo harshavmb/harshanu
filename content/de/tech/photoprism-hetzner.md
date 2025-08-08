@@ -4,7 +4,7 @@ title: "Photoprism on Hetzner Cloud"
 date: 2023-08-21
 description: "A Guide to Building Your Own PhotoPrism Setup on Hetzner Cloud"
 tags: ["photoprism", "hetzner", "cloudflare", "cloud", "nginx", "bigtech", "storagebox", "isp"]
-thumbnail: https://photos.harshanu.space/api/v1/t/6d028bdd53ee6208c10751515057942eb8f2e815/081gaa0s/fit_2048
+thumbnail: https://photos.harshanu.space/api/v1/t/6d028bdd53ee6208c10751515057942eb8f2e815/2zwabhu7/fit_2048
 ---
 
 ## Introduction

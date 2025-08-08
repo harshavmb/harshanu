@@ -4,7 +4,7 @@ title: "Salzburg"
 date: 2021-08-20
 description: "Salzburg: Österreichs bezauberndes Juwel der Alpen"
 tags: ["salzburg", "Österreich", "alpen", "reisen", "salz", "wanderung", "schneefahren"]
-thumbnail: https://photos.harshanu.space/api/v1/t/6d3776e26bcdd729bdfdb4d8c2d1f62afd6eddda/081gaa0s/fit_1280
+thumbnail: https://photos.harshanu.space/api/v1/t/6d3776e26bcdd729bdfdb4d8c2d1f62afd6eddda/2zwabhu7/fit_1280
 ---
 
 ## Einleitung
@@ -23,7 +23,7 @@ In Bezug auf "The Sound of Music" ist die Verbindung Salzburgs zu diesem geliebt
 ## Der Salzach Fluss
 
 Der Salzach Fluss fließt mitten durch Salzburg und bietet friedliche Aussichten und angenehme Spaziergänge entlang seiner Ufer. An einem sonnigen Tag können Sie einen gemütlichen Spaziergang über die Makartsteg-Brücke unternehmen, die mit unzähligen Liebesschlössern geschmückt ist, oder eine Bootsfahrt unternehmen, um die malerische Schönheit der Stadt aus einer anderen Perspektive zu genießen. Die Ufer des Flusses beherbergen auch charmante Cafés und Restaurants, perfekt für eine entspannte Mahlzeit mit Aussicht.
-![ A view of Salzach River ](https://photos.harshanu.space/api/v1/t/47b395c48c6e350505fa91b3e68ee06d23055eb5/081gaa0s/fit_1280)
+![ A view of Salzach River ](https://photos.harshanu.space/api/v1/t/47b395c48c6e350505fa91b3e68ee06d23055eb5/2zwabhu7/fit_1280)
 
 ## Festung Hohensalzburg
 
@@ -36,7 +36,7 @@ Die kulinarische Szene Salzburgs ist eine köstliche Mischung aus österreichisc
 ## Winterwunderland
 
 Salzburg's enchantment doesn't fade when the snow falls. In fact, winter is a magical time to visit, with the city's Christmas markets exuding warmth and festive cheer. Enjoy a cup of mulled wine, shop for handmade gifts, and witness the Old Town adorned with twinkling lights. Plus, Salzburg is a gateway to some of the Alps' best skiing destinations, making it a dream destination for winter sports enthusiasts.
-![ Christmas Market in Salzburg ](https://photos.harshanu.space/api/v1/t/d37b23bf150eacb9779ded8b73eb8ad9b730024c/081gaa0s/fit_1280)
+![ Christmas Market in Salzburg ](https://photos.harshanu.space/api/v1/t/d37b23bf150eacb9779ded8b73eb8ad9b730024c/2zwabhu7/fit_1280)
 
 ## Conclusion
 

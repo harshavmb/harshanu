@@ -6,7 +6,7 @@ description: Ein leidenschaftlicher IT-Ingenieur und Reisender
 keywords: ["über-uns", "über-harsha", "kontakt"]
 type: about
 ---
-![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/742a7de6fc00074f8ee382d44f3ff1743153a74a/081gaa0s/fit_2048)
+![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/742a7de6fc00074f8ee382d44f3ff1743153a74a/2zwabhu7/fit_2048)
 
 Harshavardhan Musanalli ist ein IT-Ingenieur mit einer Leidenschaft für das Reisen. Er ist derzeit in München, Deutschland, ansässig, hat aber im Laufe seines Lebens in über 20 Ländern gereist. Harshavardhan ist immer auf der Suche nach neuen Orten, die es zu erkunden gilt, und nach neuen Kulturen, die er erleben kann.
 
