@@ -6,7 +6,7 @@ description: A Passionate IT Engineer and Traveler
 keywords: ["about-us", "about-harsha", "contact"]
 type: about
 ---
-![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/742a7de6fc00074f8ee382d44f3ff1743153a74a/2zwabhu7/fit_2048)
+![ Harshavardhan Musanalli ](https://photos.harshanu.space/api/v1/t/742a7de6fc00074f8ee382d44f3ff1743153a74a/081gaa0s/fit_2048)
 
 Harshavardhan Musanalli is an IT engineer with a passion for travel. He is currently based in Munich, Germany, but he has traveled to over 20 countries in his lifetime. Harshavardhan is always looking for new places to explore and new cultures to experience.
 

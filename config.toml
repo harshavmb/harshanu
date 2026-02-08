@@ -139,10 +139,8 @@ DefaultContentLanguageInSubdir = true
   [privacy.instagram]
     disable = true
     simple = false
-  [privacy.twitter]
+  [privacy.x]
     disable = true
-    enableDNT = false
-    simple = false
   [privacy.vimeo]
     disable = true
     enableDNT = false
