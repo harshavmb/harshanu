@@ -17,6 +17,15 @@ jobs:
           hugo-version: "0.155.2"
           extended: true
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
       - name: Build the static website
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
