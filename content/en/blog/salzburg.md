@@ -4,7 +4,7 @@ title: "Salzburg"
 date: 2021-08-20
 description: "Salzburg - Austria's Enchanting Jewel of the Alps"
 tags: ["salzburg", "austria", "alps", "travel", "salz", "hiking", "skiing"]
-thumbnail: https://photos.harshanu.space/api/v1/t/6d3776e26bcdd729bdfdb4d8c2d1f62afd6eddda/2zwabhu7/fit_1280
+thumbnail: https://photos.harshanu.space/api/v1/t/6d3776e26bcdd729bdfdb4d8c2d1f62afd6eddda/081gaa0s/fit_1280
 ---
 
 ## Introduction
@@ -23,7 +23,7 @@ Speaking of "The Sound of Music," Salzburg's connection to this beloved film is 
 ## The Salzach River
 
 The Salzach River flows through the heart of Salzburg, offering serene views and pleasant walks along its banks. On a sunny day, you can enjoy a leisurely stroll across the Makartsteg Bridge, adorned with countless love locks, or take a boat ride to soak in the city's scenic beauty from a different perspective. The riverbanks also host charming cafes and restaurants, perfect for a relaxing meal with a view.
-![ A view of Salzach River ](https://photos.harshanu.space/api/v1/t/47b395c48c6e350505fa91b3e68ee06d23055eb5/2zwabhu7/fit_1280)
+![ A view of Salzach River ](https://photos.harshanu.space/api/v1/t/47b395c48c6e350505fa91b3e68ee06d23055eb5/081gaa0s/fit_1280)
 
 ## Festung Hohensalzburg
 
@@ -36,7 +36,7 @@ Salzburg's culinary scene is a delightful blend of Austrian and Bavarian flavors
 ## Winter Wonderland
 
 Salzburg's enchantment doesn't fade when the snow falls. In fact, winter is a magical time to visit, with the city's Christmas markets exuding warmth and festive cheer. Enjoy a cup of mulled wine, shop for handmade gifts, and witness the Old Town adorned with twinkling lights. Plus, Salzburg is a gateway to some of the Alps' best skiing destinations, making it a dream destination for winter sports enthusiasts.
-![ Christmas Market in Salzburg ](https://photos.harshanu.space/api/v1/t/d37b23bf150eacb9779ded8b73eb8ad9b730024c/2zwabhu7/fit_1280)
+![ Christmas Market in Salzburg ](https://photos.harshanu.space/api/v1/t/d37b23bf150eacb9779ded8b73eb8ad9b730024c/081gaa0s/fit_1280)
 
 ## Conclusion
 

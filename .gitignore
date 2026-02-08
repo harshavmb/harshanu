@@ -13,6 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-node_modules/*
+node_modules
 package-lock.json
 package.json
+
+# Hugo generated assets
+resources/_gen/
