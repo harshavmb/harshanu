@@ -163,7 +163,7 @@ When you ask GCC to compile with `-O2`, it performs dozens of extra optimization
 
 GCC's `-O2` spends 7 minutes doing this work, and the payoff is clear: the resulting binary runs 1.7x faster (6.1s vs 10.3s).
 
-CCC does none of this at any optimization level. Comparing "CCC compile time vs GCC -O2 compile time" is like comparing a printer that only prints in black-and-white vs one that does full color. The black-and-white printer is faster, but it is doing the same job.
+CCC does none of this at any optimization level. Comparing "CCC compile time vs GCC -O2 compile time" is like comparing a printer that only prints in black-and-white vs one that does full color. The black-and-white printer is faster, but it isn't doing the same job.
 
 ### Runtime Performance
 
