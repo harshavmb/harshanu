@@ -90,7 +90,9 @@
 - id: show
   translation: "Zeige"
 - id: comments
-  translation: "Kommentare" 
+  translation: "Kommentare"
+- id: disqusAdWarning
+  translation: "Kommentare werden von Disqus bereitgestellt. Im Kommentarbereich kann Werbung angezeigt werden." 
 
 # Related posts
 - id: seeAlso

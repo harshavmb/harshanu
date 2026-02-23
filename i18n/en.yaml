@@ -65,7 +65,9 @@
 - id: show
   translation: "Show"
 - id: comments
-  translation: "comments" 
+  translation: "comments"
+- id: disqusAdWarning
+  translation: "Comments are powered by Disqus. You may see ads in the comments section." 
 
 # Related posts
 - id: seeAlso
