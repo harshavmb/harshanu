@@ -8,6 +8,10 @@ googleAnalytics = "G-DBFGKP1J5P"
 ## this is for disqus
 disqusShortname = "harshanu-space"
 
+[services]
+  [services.disqus]
+    shortname = "harshanu-space"
+
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
