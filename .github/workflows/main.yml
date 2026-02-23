@@ -42,3 +42,4 @@ jobs:
           user_name: harshavmb
           user_email: harshavmb@gmail.com
           publish_branch: main
+          force_orphan: true
