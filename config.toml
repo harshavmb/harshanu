@@ -134,7 +134,7 @@ DefaultContentLanguageInSubdir = true
 ## for google analytics and privacy
 [privacy]
   [privacy.disqus]
-    disable = true
+    disable = false
   [privacy.googleAnalytics]
     anonymizeIP = false
     disable = true
